@@ -2,7 +2,7 @@
 #include <nan.h>
 #include "./pow.h"
 
-using v8::Handle;
+// using v8::Handle;
 using v8::Local;
 using v8::FunctionTemplate;
 using v8::Function;
